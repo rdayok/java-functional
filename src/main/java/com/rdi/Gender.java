@@ -1,5 +1,5 @@
 package com.rdi;
 
 public enum Gender {
-    MALE, FEMALE
+    MALE, FEMALE, PREFER_NOT_SAY
 }
